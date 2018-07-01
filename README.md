@@ -8,5 +8,3 @@ Here you can find the best tools to use or at lest know something about.
 
 ### Web
 [Statuscake](https://www.statuscake.com) - Ping, speed, ssl and domain monitoring. Very simple to use and setup. 
-
-
