@@ -42,6 +42,8 @@ Here you can find the best tools to use or at lest know something about.
 
 [MachineBox](https://machinebox.io) - MachineBox integrate, deploy and scale award winning Machine Learning fast.
 
-## Kubernetes
+## DevOps
+
+### Kubernetes
 
 [KubeWatch](https://github.com/bitnami-labs/kubewatch) - A Kubernetes watcher that currently publishes notification to Slack. Run it in your k8s cluster, and you will get event notifications in a slack channel.
