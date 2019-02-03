@@ -42,7 +42,6 @@ Here you can find the best tools to use or at lest know something about.
 
 [MachineBox](https://machinebox.io) - MachineBox integrate, deploy and scale award winning Machine Learning fast.
 
-[Teste](google.com)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDMzMjc0NjQwXX0=
+eyJoaXN0b3J5IjpbODgwODk3MDIwLDQzMzI3NDY0MF19
 -->
