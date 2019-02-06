@@ -47,3 +47,13 @@ Here you can find the best tools to use or at lest know something about.
 ### Kubernetes
 
 [KubeWatch](https://github.com/bitnami-labs/kubewatch) - A Kubernetes watcher that currently publishes notification to Slack. Run it in your k8s cluster, and you will get event notifications in a slack channel.
+
+[Skaffold~~](https://skaffold.dev/ - Skaffold handles the workflow for building, pushing and deploying your application. So you can focus more on application development.)
+
+## Web Development
+
+### React
+
+[PrimeReact](https://www.primefaces.org/primereact/) - PrimeReact is a collection of rich UI components for React. All widgets are open source and free to use under MIT License.
+
+[Rekit](http://rekit.js.org/) - Rekit is a toolkit for building scalable web applications with React, Redux and React-router. It's an all-in-one solution for creating modern React apps.
