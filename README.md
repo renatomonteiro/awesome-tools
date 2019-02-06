@@ -48,7 +48,7 @@ Here you can find the best tools to use or at lest know something about.
 
 [KubeWatch](https://github.com/bitnami-labs/kubewatch) - A Kubernetes watcher that currently publishes notification to Slack. Run it in your k8s cluster, and you will get event notifications in a slack channel.
 
-[Skaffold~~](https://skaffold.dev/ - Skaffold handles the workflow for building, pushing and deploying your application. So you can focus more on application development.)
+[Skaffold](https://skaffold.dev/) - Skaffold handles the workflow for building, pushing and deploying your application. So you can focus more on application development.)
 
 ## Web Development
 
