@@ -17,6 +17,7 @@ Here you can find the best tools to use or at lest know something about.
 
 ### Database User Interfaces
 [CassandraWeb](https://github.com/avalanche123/cassandra-web) - A web interface to Apache Cassandra with AngularJS and server-sent events.
+
 [MongoTron](http://mongotron.io) - Open Spurce cross platform MongoDB management, built using Electron and Angular JS.
 
 ## API
@@ -24,7 +25,6 @@ Here you can find the best tools to use or at lest know something about.
 ### API Gateway
 [Gravitee](https://gravitee.io) - Gravitee.io is a flexible, lightweight and blazing-fast open source API Management solution that helps your organization control finely who, when and how users access your APIs.
 
-### API Gateway User Interfaces
 [Konga](https://pantsel.github.io/konga/) - An open source tool that enables you to manage your Kong API Gateway with ease.
 
 ## Documentation Helpers
@@ -36,6 +36,7 @@ Here you can find the best tools to use or at lest know something about.
 ## Geolocation
 
 [IPStack](https://ipstack.com) - Offers one of the leading IP to geolocation APIs and global IP database services worldwide.
+
 [FreeGeoIP](https://github.com/fiorix/freegeoip) - Open source IP geolocation web server.
 
 ## Machine Learning
@@ -57,3 +58,16 @@ Here you can find the best tools to use or at lest know something about.
 [PrimeReact](https://www.primefaces.org/primereact/) - PrimeReact is a collection of rich UI components for React. All widgets are open source and free to use under MIT License.
 
 [Rekit](http://rekit.js.org/) - Rekit is a toolkit for building scalable web applications with React, Redux and React-router. It's an all-in-one solution for creating modern React apps.
+
+
+## Helpers
+
+### Scaffolding
+
+[Yeoman](https://yeoman.io/) - Yeoman helps you to kickstart new projects, prescribing best practices and tools to help you stay productive.
+
+[Rest API Generator](https://github.com/diegohaz/rest) - REST API generator with Node.js, Express and Mongoose.
+
+### Documentation
+
+Stackedit (https://stackedit.io) - Stackedit is a very good in-browser markdown editor.
