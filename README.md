@@ -51,7 +51,7 @@ Here you can find the best tools to use or at lest know something about.
 
 [Skaffold](https://skaffold.dev/) - Skaffold handles the workflow for building, pushing and deploying your application. So you can focus more on application development.)
 
-## Web Development
+## Development
 
 ### React
 
@@ -59,6 +59,9 @@ Here you can find the best tools to use or at lest know something about.
 
 [Rekit](http://rekit.js.org/) - Rekit is a toolkit for building scalable web applications with React, Redux and React-router. It's an all-in-one solution for creating modern React apps.
 
+### Git
+
+[GitIgnore](https://www.gitignore.io/) - Create useful .gitignore files for your project.
 
 ## Helpers
 
